@@ -4,4 +4,4 @@ Este repositório contém exemplos práticos e exercícios sobre como utilizar v
 
 ## 📚 Conteúdo
 
-- **Introdução aos Vetores em C**: Conceitos básicos sobre o que são vet.
+- **Uso de Vetores em C**: Com uso de exemplos basicos
